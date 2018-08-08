@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RouteAndMap</string>
+    <string name="google_map_API_key">AIzaSyChpe7AuFrhv_opuor32ROw6ksfpeLGax0</string>
+</resources>
